@@ -1,6 +1,6 @@
 /* Specify color for thread links */
 .threadlink {
-    color: #f4511e;
+    color: #fafafa;
 }
 /* Global Background color */
 .Bl2pUd {
@@ -21,11 +21,11 @@
 
 /* Title in private messages */
 .CmMf8e {
-    color: #f4511e;
+    color: #fafafa;
 }
 /* Title in channels */
 .tCUB4c {
-    color: #f4511e;
+    color: #fafafa;
 }
 
 /* Topbar background color */
@@ -35,12 +35,12 @@
 }
 /* Topbar left button text color */
 .nk7hB, .wWf0Bc, .nk7hB .cAW0Vc {
-    color: #f4511e;
+    color: #fafafa;
 }
 /* Topbar right buttons color */
 .Nj8aCb.Nj8aCb {
-    color: #f4511e;
-    fill: #f4511e;
+    color: #fafafa;
+    fill: #fafafa;
 }
 /* Thread boxes colors */
 .dsoUjb {
@@ -66,7 +66,7 @@
 
 /* Thread boxes in search results */
 .d4FIEb .ajCeRb .QIJiHb {
-    color: #f4511e !important;
+    color: #fafafa !important;
 }
 /* Room title between threads in search results */
 .aVIRye {
@@ -74,7 +74,7 @@
 }
 /* Load more messages button in search results */
 .taQuBe {
-    color: #f4511e;
+    color: #fafafa;
     background-color: #2d2d2d;
 }
 
@@ -90,7 +90,7 @@
 
 /* Edit/react/delete buttons on message */
 .f8lxbf {
-    fill: #f4511e;
+    fill: #fafafa;
 }
 .eWw5ab {
     background-color: #2d2d2d;
@@ -133,7 +133,7 @@
 
 /* Username color */
 .cmEq8b .Zc1Emd, .cmEq8b .Z4BnXb {
-    color: #f4511e;
+    color: #fafafa;
 }
 
 /* Follow button color */
@@ -165,8 +165,8 @@
 }
 /* Cursor and text input color */
 .oAzRtb {
-    caret-color: #f4511e;
-    color: #f4511e;
+    caret-color: #fafafa;
+    color: #fafafa;
 }
 /* Answer box border when active */
 .PhFuQe.yXgmRe .dJ9vNe {
@@ -178,8 +178,8 @@
 }
 /* Answer box right buttons */
 .fKz7Od {
-    color: #f4511e;
-    fill: #f4511e;
+    color: #fafafa;
+    fill: #fafafa;
 }
 
 /* New thread button */
@@ -187,7 +187,7 @@
     background-color: #2d2d2d;
 }
 .aVw1Ob {
-    color: #f4511e;
+    color: #fafafa;
 }
 .SfqTBc .jy2fzc {
     color: #3b64a0;
@@ -199,10 +199,10 @@
     border: solid 1px #5f5f5f;
 }
 .p9Cqzd { /* exit cross */
-    fill: #f4511e;
+    fill: #fafafa;
 }
 .qnCNBb { /* "New thread" label */
-    color: #f4511e;
+    color: #fafafa;
 }
 .zFe2Ef:not(.RDPZE) .v6TC2e { /* send button when active */
     fill: #3b64a0;
@@ -210,7 +210,7 @@
 
 /* Join room box in room preview */
 .BhQsO {
-    color: #f4511e !important;
+    color: #fafafa !important;
 }
 .CjSwue {
     background-color: #2d2d2d !important;
@@ -222,7 +222,7 @@
 
 /* Text between threads color */
 .A2BXPe {
-    color: #f4511e; 
+    color: #fafafa; 
 }
 
 /* Sidebar color and border */
@@ -240,7 +240,7 @@
 
 /* Sidebar active channel */
 .FS4hgd.iWO5td .ojqkvd, .FS4hgd.iWO5td, .dHI9xe.qs41qe, .dHI9xe.KKjvXb.KKjvXb, .dHI9xe.qs41qe .ojqkvd.ojqkvd, .dHI9xe.KKjvXb.KKjvXb .ojqkvd {
-    color: #f4511e;
+    color: #fafafa;
 }
 .FS4hgd.iWO5td.iWO5td, div .dHI9xe.KKjvXb, div .dHI9xe.qs41qe {
     background-color: #3b64a0;
@@ -251,7 +251,7 @@
 
 /* Sidebar elements text color for chans with unread messages */
 .PL5Wwe.H7du2 .t5F5nf {
-    color: #f4511e;
+    color: #fafafa;
 }
 
 /* Channel name color in sidebar */
@@ -295,7 +295,7 @@
 /* Search menu elements colors when hovering */
 .dQ2Tsf[aria-selected="true"], .PL5Wwe:hover > .dQ2Tsf {
     background-color: #eee;
-    color: #f4511e
+    color: #fafafa
 }
 
 /* Search menu people list mail color */
@@ -314,7 +314,7 @@
 /* Chat top left logo text color */
 #XMLID_8_-Clipped{
     opacity: 0.8 !important;
-    fill: #f4511e !important;
+    fill: #fafafa !important;
 }
 
 /* Chat top left logo */
@@ -332,26 +332,26 @@
     color: rgb(202, 196, 201);
 }
 .PL5Wwe.H7du2 .sFuxxd {
-    color: #f4511e;
+    color: #fafafa;
 }
 .DQy0Rb {
     fill: rgb(202, 196, 201) !important;
 }
 .PL5Wwe.H7du2 .DQy0Rb {
-    fill: #f4511e !important;
+    fill: #fafafa !important;
 }
 .QeRfYe {
     fill: rgb(202, 196, 201) !important;
 }
 .PL5Wwe.H7du2 .QeRfYe {
-    fill: #f4511e !important;
+    fill: #fafafa !important;
 }
 
 /* Code snippets colors */
 .FMTudf {
     border: 1px solid #6a6a6a;
     background: #3d3d3d;
-    color: #f4511e;
+    color: #fafafa;
 }
 
 /* Inline pre colors */
@@ -376,7 +376,7 @@
     border: 1px solid #6a6a6a;
 }
 .kmatHb, .hlrRUb {
-    color: #f4511e;
+    color: #fafafa;
     background: transparent;
 }
 .SXFjfb {
